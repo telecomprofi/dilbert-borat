@@ -1,6 +1,8 @@
 # Description
 Demo Next.js container web-app  that shows random Borat Devops joke & random Dilbert comic strip.
 
+!['Screenshot 2026-10-27 at 15.05.55.png](https://github.com/telecomprofi/dilbert-borat/blob/main/Screenshot%202026-10-27%20at%2015.05.55.png)
+
 ## How to run
 ```
 docker login  # login to docker hub

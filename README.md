@@ -1,3 +1,19 @@
+# Description
+Demo Next.js container web-app  that shows random Borat Devops joke & random Dilbert comic strip.
+
+## How to run
+```
+docker login  # login to docker hub
+docker pull --platform linux/amd64 telecomprofi/dilbert-borat
+docker run -p 3000:3000 --platform linux/amd64 telecomprofi/dilbert-borat
+```
+Then go to 127.0.0.1:3000 in your browser and open web-apps' home page.
+
+
+-------
+
+Below is original Next-js-docker-app help
+
 # With Docker
 
 This examples shows how to use Docker with Next.js based on the [deployment documentation](https://nextjs.org/docs/deployment#docker-image). Additionally, it contains instructions for deploying to Google Cloud Run. However, you can use any container-based deployment host.

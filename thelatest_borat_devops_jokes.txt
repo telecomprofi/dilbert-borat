@@ -1,0 +1,97 @@
+1 million monkey hit random key for 1 million year can able generate Hamlet but not internal Wiki documentation.
+1+1=2 only in legacy system. In modern distributed database with eventual consistent is 1+1=1.
+5% of devops are have infrastructure as code. Rest of 95% are have infrastructure as PowerPoint.
+50% of devops are confuse causation with correlation. Other 50% are just take wild ass guess.
+90% of devops are fail simple interview question of what is most critical piece of infrastructure. Is outgoing mail on Nagios server!
+90% of problem in devops can able solve with one of 3 thing: 1) SSD 2) CDN 3) AWS
+Advantage of Agile is can able of allow you get nowhere much faster.
+Attention devops! Make of sure you have strong plan C. Plan A and B are never work.
+Average length of Java one-liner is 21 line!
+Beautiful code is never work in production.
+Best decision we ever make in startup was outsource all site outage to Cloud provider.
+Big Data is any thing which is crash Excel.
+Cloud is not ready for enterprise if is not integrate with single server running Active Directory.
+Conflict resolution is most important skill of manager. In startup we are force all manager for use git.
+Confuse of Dev or Ops? Simple rule: if you are praise for Web site success, you are Dev; if you are blame when Web site down, you are Ops.
+Devops is intersection of lover of cloud and hater of wake up at 3 in morning.
+Dirty secret of Big Data is you can not able deploy if you not have SQL expert on staff.
+Distributed database is only as good as network engineer which is in charge of push cable all way in switch port.
+Every 2 day outage is start with wide eye dream of change world.
+Every of devops team is have at least 3 shell script which is critical and is not in source control or backup.
+Every of MVC web application can able be reduce to 150 line Perl script.
+Every PaaS can able be reduce to 120 Perl script.
+Every thing is 10x in cloud. Especially I/O latency.
+Fact of useless: 90% of data is not exist 2 year ago. Fact of use: 90% of data is useless.
+First requisite of get shit done is be able for deal with lot of shit.
+For devops manager: if task is take 15 min, then first break into two 30 minute tasks then delegate.
+For every of stakeholder involve in your project is completion of project delay by 6 month.
+For increase revenue we are introduce paywall between dev team and ops team.
+For understand devops terminology you need of replace 'continuous' with 'half ass automated'.
+Goal of sysadmin is replace itself with small shell script. Goal of devops is replace itself with small REST API.
+Happy Programmer Day to all developer! Except  .NET programmer because is not possible of have happy day when use Microsoft product.
+Hard part in devops is make money from wheel after you are reinvent it.
+Hello World in cloud is involve 1 load balancer, 3 web server and 2 database server.
+I am big believe in Continuous Deployment as long as is not touch production.
+If at first you are not succeed, is time for abandon node.js.
+If is easy of use, then is hard of debug.
+If programmer is tell you task is next on todo list, is mean next year.
+If shit is never hit fan you are not get enough shit done.
+If you can not able do it from command line, is not worth do it.
+If you can not able use Perl for answer, you are ask wrong question.
+In agile startup we have policy of "is not bug, is feature" unless bug is open by CEO.
+In devops is not correct 'shit hit fan' but 'shit hit load balancer'.
+In devops is success 5% inspiration, 15% git clone, 25% copy and paste and 55% bulls shit.
+In devops is turtle all way down but at bottom is perl script.
+In devops nostalgia is when you are label SSD with letter A:
+In devops optimist is person which is see glass as 99.999% full.
+In devops we are always have quiet celebration when server is come back up after reboot.
+In devops we are communicate with coworker only by JIRA ticket.
+In devops we are face fiscal cliff every year when Oracle license is up for renew.
+In devops we have best minds of generation are deal with flaky VPN client.
+In startup if you are call us you are speak with 3 human before robot is solve your problem.
+In startup we are allow all developer use 20% of time for write code with not TDD so they can able of actual get shit done.
+In startup we are allow all employee for use 20% time on personal project but only in weekend.
+In startup we are apply Etsy model of new hire engineer is allow of bring site down on first day.
+In startup we are celebrate teamwork by create many team of one.
+In startup we are final master art of agile waterfall.
+In startup we are gamify site outage. Three outage and ops team is out.
+In startup we are have immediate open for frontend Erlang engineer.
+In startup we are hire only rockstar, ninja or samurai. Vague familiar with computer is big plus.
+In startup we are leave critical bug in each of release so we can able fix in next release.
+In startup we are only use technology if is cover in blog of expert devops on benchmark is run on own laptop.
+In startup we are pass stage of infrastructure as code and we are now work on infrastructure as bug.
+In startup we are practice Continuous Delivery follow immediate by Continuous Revert To Old Code.
+In startup we are practice Outage Driven Infrastructure.
+In startup we have great of capability for churn out solution. Please send problem,  we are pay good money.
+In startup we manage of hire node.js ninja. Primary responsibility is follow up on comment on Hacker News.
+Is all fun and game until you are need of put it in production.
+Is no I in backup.
+Is not site outage if nobody is tweet of it.
+Junior programmer is everybody can able understand your code is wrong. Senior programmer is nobody can able understand your code is wrong.
+Law of Murphy for devops: if thing can able go wrong, is mean is already wrong but you not have Nagios alert of it yet.
+Life of devops in 6 word: "I thought it was staging database"
+Main difference of data center and cloud: in data center you are need 2 of everything, in cloud you are need 20 of everything.
+Nagios alert or is never happen.
+Non devops are need of learn email is not best way of contact devops. Best way is not contact.
+Oracle Cloud is combine best of both world: cheap of Oracle Enterprise DB and simple of J2EE.
+Pair programming is good concept but is involve too many programmer.
+Rockstar programmer are just as you and me but they can also able write insecure Ruby code.
+Rule #1 of agile startup is never of use QA team when you can able pay customer for find worst bug.
+Small Data is when is fit in RAM. Big Data is when is crash because is not fit in RAM.
+Software project 1) On time 2) On budget 3) With quality. You can not able pick any.
+Source of CERN is tell me next monumental task for them is find trace of Linux on desktop.
+Source of Microsoft and Hortonworks are tell me Hadoop for Windows is release as Excel plugin.
+To estimate project duration we apply Celsius to Fahrenheit formula. C is internal estimate and F is what we tell PM: C x 9/5+ 32 = F days.
+To make error is human. To propagate error to all server in automatic way is #devops.
+Troubleshoot of VPN tunnel is colonoscopy of devops.
+Two wrong are not make one right except in distributed database.
+What is happen in cloud is stay in cloud because nobody can able reproduce outside of cloud.
+When you are run DROP DATABASE you are have of many problem but Big Data is not of one of them.
+Word "impossible" is not exist in devops vocabulary. Instead we are use "done by Q4".
+Yesterday I have bird and bee discussion with junior devops for make realize cloud instance is born of real hardware.
+You are not true Java programmer if you are not write enterprise software for personal project.
+You can not able have unlimit scalability without unlimit outage.
+You can not able spell business without BS.
+You can only able call yourself senior programmer if you are spend more minute in meeting as in write code.
+You can only able have 2 of 3: enterprise, cloud, strategy.
+You know open source product is impossible of use when creator is start consultancy around it.
